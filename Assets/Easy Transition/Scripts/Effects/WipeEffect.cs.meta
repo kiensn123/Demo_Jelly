@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 455a19dd17492f6468b51681cb65f088
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329334
+  packageName: Easy Transition Free - Scene Fades & Wipes
+  packageVersion: 1.1.2
+  assetPath: Assets/Easy Transition/Scripts/Effects/WipeEffect.cs
+  uploadId: 948308

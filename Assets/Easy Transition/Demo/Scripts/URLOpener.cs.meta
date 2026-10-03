@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 682b1eb130de4a342b29f7f41c46d595
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329334
+  packageName: Easy Transition Free - Scene Fades & Wipes
+  packageVersion: 1.1.2
+  assetPath: Assets/Easy Transition/Demo/Scripts/URLOpener.cs
+  uploadId: 948308

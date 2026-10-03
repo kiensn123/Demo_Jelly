@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 13b883ac13b17b1449bc6dfbc0e26148
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329334
+  packageName: Easy Transition Free - Scene Fades & Wipes
+  packageVersion: 1.1.2
+  assetPath: Assets/Easy Transition/Scripts/Effects/SmokeEffect.cs
+  uploadId: 948308

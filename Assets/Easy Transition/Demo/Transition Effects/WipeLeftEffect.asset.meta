@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a701793cc33beb64ab2a3432805ff7e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329334
+  packageName: Easy Transition Free - Scene Fades & Wipes
+  packageVersion: 1.1.2
+  assetPath: Assets/Easy Transition/Demo/Transition Effects/WipeLeftEffect.asset
+  uploadId: 948308

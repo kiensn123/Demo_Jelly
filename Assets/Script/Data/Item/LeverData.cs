@@ -1,16 +1,9 @@
 using UnityEngine;
 
-public class LeverData : MonoBehaviour
-{
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+[CreateAssetMenu(fileName ="LeverData",menuName ="Data/LeverData")]
+public class LeverData : ScriptableObject
+{
+    public string Name;
+    public GameObject Map;
 }
