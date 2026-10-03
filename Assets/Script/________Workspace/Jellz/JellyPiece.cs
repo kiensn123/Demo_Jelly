@@ -12,9 +12,6 @@ public class JellyPiece : MonoBehaviour
             bones.AddRange(GetComponentsInChildren<Rigidbody2D>());
     }
 
-    void Start()     => FindFirstObjectByType<FillZone>()?.Register(this);
-    void OnDestroy() => FindFirstObjectByType<FillZone>()?.Unregister(this);
-
     // tỉ lệ bone nằm trong vùng đạt mức yêu cầu thì mảnh coi là đã vào
     public bool IsInside(Collider2D zone, float requiredRatio)
     {
